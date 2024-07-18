@@ -1,11 +1,10 @@
-3D Modelling
-Sculpting
+Character Concept Art
+Environment Concept Art
+Props/ Creatures Concept Art
+Environment 3D Modelling
+Props 3D Modelling
+3D Sculpting
 Texturing
-High Poly Modelling
-UV-Unwrapping
-Retopology
-Hand-painted Texturing
-Weapon Modelling
-Environment Art
 Tileable Materials
-punching faces
+2D Animations
+3D Animations

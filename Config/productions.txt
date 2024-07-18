@@ -2,23 +2,23 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+External Affairs Vice President 
+Chinese Cultural Club in UOW Malaysia
+Jan 2023 - Nov 2023
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+While focusing on class works, I also joined a school club and worked as an external affairs vice president for a year. During that time, I often participate events held from other universities to expand our club's network, while promoting our own events at the same time.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+General Admin 
+Hong Wei Lion Dance Team
+2015 - present 
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+As an artist, I also participate in traditional lion dance team as an admin who in charge in different general affairs in the team. 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+Illustrator 
+Grey Matters Studio 
+Oct 2021 - Nov 2021
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+I joined a Singapore Studio that mainly work on education animation cartoons and games. I worked as a illustrator and had participated in Storyboarding, Key art illustration, and Educational Comics Layout. 
 ---
 Role
 Company
