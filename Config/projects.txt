@@ -1,3 +1,2 @@
-Iron Heart 
-From The Earth 
-Solace
+IronHeart
+Example Project
