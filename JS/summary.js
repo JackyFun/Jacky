@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', async () => {
-    const summaryElement = document.querySelector('summary-panel p');
+    const summaryElement = document.querySelector('summary-panel');
     
     if (!summaryElement) {
         console.error('Summary element not found');
