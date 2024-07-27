@@ -63,11 +63,27 @@ function fetchProjectData(projectName) {
     const descriptionPath = `Projects/${projectName}/description.txt`;
     const mediaPath = `Projects/${projectName}/media.txt`;
 
+    console.log(`Fetching data for project: ${projectName}`);
+    console.log(`Description path: ${descriptionPath}`);
+    console.log(`Media path: ${mediaPath}`);
+
     return Promise.all([
-        fetch(descriptionPath).then(response => response.text()),
-        fetch(mediaPath).then(response => response.text())
+        fetch(descriptionPath).then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to fetch description file: ${response.statusText}`);
+            }
+            return response.text();
+        }),
+        fetch(mediaPath).then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to fetch media file: ${response.statusText}`);
+            }
+            return response.text();
+        })
     ])
     .then(([descriptionText, mediaText]) => {
+        console.log('Description text:', descriptionText);
+        console.log('Media text:', mediaText);
         const [title, description, tags, thumbnailUrl, htmlFileName] = descriptionText.split('---').map(line => line.trim());
         const galleryPageUrl = descriptionPath.replace('description.txt', htmlFileName);
 
